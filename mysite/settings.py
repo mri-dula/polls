@@ -70,7 +70,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'mysite.wsgi.application'
 
-TIME_ZONE = 'India/Kolkata'
+TIME_ZONE = 'Asia/Calcutta'
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
